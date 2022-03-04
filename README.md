@@ -1,3 +1,6 @@
+LINK TO DASHBOARD: https://public.tableau.com/views/NYCCitibikeChallenge_16463696138190/NYCCitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
 # Citibike User Visual Analysis
 
 ## Total Trips in August 2019
